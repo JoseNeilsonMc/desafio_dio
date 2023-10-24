@@ -1,4 +1,4 @@
-//# 1️⃣ Desafio Classificador de nível de Herói
+//# 1️ Desafio Classificador de nível de Herói
 
 
 // Definindo o nome e a XP do herói
