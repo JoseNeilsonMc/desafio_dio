@@ -2,7 +2,7 @@
 
 
 // Definindo o nome e a XP do herói
-let nomeDoHeroi = "Super Herói";
+/*let nomeDoHeroi = "Super Herói";
 let xpDoHeroi = 8000;
 
 // Verificando o nível com uma estrutura de decisão
@@ -28,3 +28,4 @@ if (xpDoHeroi < 1000) {
 
 // Exibindo a mensagem final
 console.log(`O Herói de nome ${nomeDoHeroi} está no nível de ${nivel}`);
+*/
